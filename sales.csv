@@ -1,4 +1,4 @@
-﻿User_ID,Product_ID,Gender,Age Group,Occupation,City,Resident of the current city,Marital Status,Product 1,Product 2,Product  3,Purchase
+﻿User_ID,Product_ID,Gender,Age Group,Occupation,City,Resident of the current city,Marital Status,Product 1,Product 2,Product 3,Purchase
 1000001,P00069042,F,0-17,10,A,2,0,3,0,0,8370
 1000001,P00248942,F,0-17,10,A,2,0,1,6,14,15200
 1000001,P00087842,F,0-17,10,A,2,0,12,0,0,1422
